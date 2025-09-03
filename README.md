@@ -21,26 +21,26 @@ The system provides an intuitive interface, user-friendly design, and supports f
 - **Product Management**  
   - Add, edit, delete, and search products  
   - Store product details (ID, name, category, stock quantity, price, import date, status)  
-  - ![Product Management](https://github.com/chaulinh0611/PBL3_Mini-Mark-Management-System/tree/main/images/product_management)  
+  - ![Product Management](https://github.com/chaulinh0611/PBL3_Mini-Mark-Management-System/blob/main/images/product_management/product_list.png)  
 
 - **Sales Management**  
   - Record transactions and process payments  
   - Calculate total bills and print invoices  
-  - ![Sales Management](https://github.com/chaulinh0611/PBL3_Mini-Mark-Management-System/tree/main/images/sales_management)  
+  - ![Sales Management](https://github.com/chaulinh0611/PBL3_Mini-Mark-Management-System/blob/main/images/sales_management/invoice_sales_list.png)  
 
 - **Inventory Management**  
   - Track stock levels  
   - Low-stock alerts and automatic stock updates after each sale  
-  - ![Inventory Management](https://github.com/chaulinh0611/PBL3_Mini-Mark-Management-System/tree/main/images/inventory_management)  
+  - ![Inventory Management](https://github.com/chaulinh0611/PBL3_Mini-Mark-Management-System/blob/main/images/inventory_management/inventory_list.png)  
 
 - **Employee Management**  
   - Store employee information  
   - Role-based access and shift scheduling  
-  - ![Employee Management](https://github.com/chaulinh0611/PBL3_Mini-Mark-Management-System/tree/main/images/employee_management)  
+  - ![Employee Management](https://github.com/chaulinh0611/PBL3_Mini-Mark-Management-System/blob/main/images/employee_management/employee_list.png)  
 
 - **Reporting & Statistics**  
   - Revenue reports, inventory status, and sales performance  
-  - ![Report](https://github.com/chaulinh0611/PBL3_Mini-Mark-Management-System/tree/main/images/reporting_statistics)  
+  - ![Report](https://github.com/chaulinh0611/PBL3_Mini-Mark-Management-System/blob/main/images/reporting_statistics/revenue_report_daily.png)  
 
 ---
 
